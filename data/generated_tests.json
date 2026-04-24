@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Valid GET posts",
+        "endpoint": "https://jsonplaceholder.typicode.com/posts",
+        "expected_status": 200
+    },
+    {
+        "name": "Invalid endpoint",
+        "endpoint": "https://jsonplaceholder.typicode.com/invalid",
+        "expected_status": 404
+    }
+]
