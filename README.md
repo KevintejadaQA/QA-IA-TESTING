@@ -119,4 +119,4 @@ Este proyecto demuestra la capacidad de:
 
 ---
 
-⭐ Proyecto desarrollado como parte de mi evolución en QA Automation Engineering
+⭐ Proyecto desarrollado como parte de mi evolución en QA Automation Engineer
